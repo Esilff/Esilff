@@ -1,15 +1,5 @@
 ### Hi there, I'm Banari Veaceslav / Esilff
 
-## I'm a student in computer science in France
-- 🔭 I’m currently working as a front-end developer at ADventori as an intern
-- 🌱 I’m currently learning WebGL and computer graphics knowledge
-- 🔍 I’m looking for a study work contract in computer graphics and video games engineering
-- ⚡ Fun fact: I do art and play guitar 🎨🎸
-
-### Reach me:
-
-[<img align="left" alt="Banari Veaceslav | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][Linkedin]
-
 <!--
 **Esilff/Esilff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
