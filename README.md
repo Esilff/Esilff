@@ -1,4 +1,4 @@
-### Hi there, I'm Esilff
+### Hi there, I'm Esilff / Banari Veaceslav
 
 <!--
 **Esilff/Esilff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
