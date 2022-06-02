@@ -1,4 +1,4 @@
-<span style="color: blue">### Hi there, I'm Esilff / Banari Veaceslav</span>
+### <span>Hi there, I'm Esilff / Banari Veaceslav</span>
 
 
 <!--
